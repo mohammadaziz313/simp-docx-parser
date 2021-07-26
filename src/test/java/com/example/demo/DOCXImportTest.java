@@ -21,8 +21,4 @@ public class DOCXImportTest {
 	public void textSimpleDocumentImport() {
 		assertEquals("", docxImport.importDocument(null,""));
 	}
-	
-	
-	
-	
 }
