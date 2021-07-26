@@ -1,0 +1,5 @@
+package markdown;
+
+public enum MarkdownType {
+	IMAGELINK, IMAGETITLE, TABLELINK, TABLETITLE, FORMULALINK, FORMULATITLE, PLAINTEXT
+}
